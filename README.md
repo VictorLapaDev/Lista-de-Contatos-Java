@@ -6,6 +6,10 @@ Este é meu primeiro programa utilizando orientação a objetos, sendo assim tam
 Como dito, o programa é feito só em java, sem nenhum front end, apenas a interface do JOptionPane, uma classe do Java.
 
 Interface:
+
+
+
+
 ![image](https://github.com/lapa22/Lista-de-Contatos-Java/assets/141652519/b6e30ba2-fdc5-402e-9b80-99f9a7155d95)
 
 
