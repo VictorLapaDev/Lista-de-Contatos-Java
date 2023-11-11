@@ -13,8 +13,8 @@ Interface:
 ![image](https://github.com/lapa22/Lista-de-Contatos-Java/assets/141652519/b6e30ba2-fdc5-402e-9b80-99f9a7155d95)
 
 
-Para abrir o projeto:
-1- Baixe o jdk.
-2- Baixe o projeto.
-3- Baixe alguma IDE compátivel como: Eclipse, NetBeans ou VSCode(junto das extensões para Java).
-4- Abra o projeto na IDE.
+Para abrir o projeto:<br>
+1- Baixe o jdk.<br>
+2- Baixe o projeto.<br>
+3- Baixe alguma IDE compátivel como: Eclipse, NetBeans ou VSCode(junto das extensões para Java).<br>
+4- Abra o projeto na IDE.<br>
